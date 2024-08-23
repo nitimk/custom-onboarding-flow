@@ -11,8 +11,6 @@ This project is a full-stack application designed as a custom onboarding flow fo
 ### Installation
 
 1. **Clone the Repository:**
-
-   ```bash
   - git clone https://github.com/nitimk/custom-onboarding-flow.git
   - cd custom-onboarding-flow
 
